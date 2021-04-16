@@ -1,0 +1,26 @@
+{
+  "name": "nodeodbc-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brentgroves/nodeodbc-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brentgroves/nodeodbc-test/issues"
+  },
+  "homepage": "https://github.com/brentgroves/nodeodbc-test#readme",
+  "dependencies": {
+    "convert-array-to-csv": "^2.0.0",
+    "node": "^15.14.0",
+    "objects-to-csv": "^1.3.6",
+    "odbc": "^2.3.6"
+  }
+}
