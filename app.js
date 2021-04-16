@@ -1,7 +1,7 @@
 const odbc = require('odbc');
 // const converter = require('convert-array-to-csv');
 const ObjectsToCsv = require('objects-to-csv');
-
+// https://flaviocopes.com/node-write-csv/
 // DRIVER={FreeTDS};SERVER=host;UID=user;PWD=password;DATABASE=dbname
 // https://www.npmjs.com/package/odbc
 // Uid=myUsername;Pwd=
